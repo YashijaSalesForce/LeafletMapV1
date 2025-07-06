@@ -1,7 +1,6 @@
-# 야쉬자맵
+# 야쉬자맵V1(APEX 미구현 버전)
 <img width="1238" alt="image" src="https://github.com/user-attachments/assets/5fcd9a05-3f65-48a9-974d-499005454fd7" />
 
-=> 더미데이터 버전(APEX로 실제 데이터 불러오는것 미구현)
 
 # 필요한 세팅
 ### 1. 다운로드
